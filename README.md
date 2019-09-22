@@ -3,7 +3,7 @@ Enjoying my new MacBook pro and setting up my local dev env.
 
 
 
-I implemented a [merge sort, quicksort, and then a combo of the two](#a-few-sort-algorithims).
+I implemented a [merge sort, quicksort, and then a combo of the two](#a-few-sort-algorithms).
 I implemented a hash map that enforces a loadFactor and uses a growthFactor. It does this automatically based on the detection of a loadFactor violation.
 I implemented several binary treemaps. Did all three types of traversal. 
 I implemented a full AVL treemap that is self-balancing. It does a rotateLeft, a rotateRight, min, max, search, remove, and of course insert. 
