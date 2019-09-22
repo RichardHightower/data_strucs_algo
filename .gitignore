@@ -1,3 +1,7 @@
- .idea
+# Default ignored files
 target
+.idea
 .DS_Store
+*.DS_Store
+project/target
+
