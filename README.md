@@ -27,6 +27,9 @@ I did not get as far as I wanted with graph theory and graph algorithms(yet), bu
 * Review OS mutexes, semaphores, scheduling, deadlocks and livelocks. (DONE)
 * Review graph theory (some but not enough, but want to create some examples of breath first search and breadth first search). 
 * TODO implement some graph theory stuff
+* Set up [ScalaTest](#added-some-scala-wordspec-for--simple-binary-tree-map) for simple binary tree map, set up sbt, sdkman, using WordSpec. 
+
+
 
 
 
@@ -1166,8 +1169,10 @@ I used [textik](https://textik.com/) to draw the trees and tried to get all of t
 The Simple binary tree has about 95% code coverage. I fixed a few issues with removal. The AVL tree I wrote used the remove code
 from the simple binary tree so I am sure it has the same issues. 
 
-I learned a bit about [sdkman](https://sdkman.io/), sbt, and a few other tools that I take for granted. 
-I had some issues with Scala and Java. I uninstalled the brew installs for Java, sbt and Scala and used `sdkman` instead.  
+I learned a bit about [sdkman](https://sdkman.io/), [sbt](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html), and a few other tools that I take for granted. 
+I had some issues with Scala and Java on my new Mac. 
+I uninstalled the brew installs for Java, sbt and Scala and used `sdkman` instead to help be debug.
+I spent sometime looking into more sbt details.   
 
 
 #### Scala Test using WordSpec style, testing binary tree
