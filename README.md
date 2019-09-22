@@ -14,7 +14,7 @@ I did not get as far as I wanted with graph theory and graph algorithms(yet), bu
 
 
 ## Tasks
-* Create qsort, merge sort examples and then combine qsort and merge DONE [scala qsort](#scala-version-of-quick-sort) [java sorts, merge, quick combo](https://gist.github.com/RichardHightower/5b8a2f5f631b1f664f90cd3b18f81da1#a-few-sort-algorithims), [python qsort](https://gist.github.com/RichardHightower/5b8a2f5f631b1f664f90cd3b18f81da1#python-version-of-quick-sort)
+* Create qsort, merge sort examples and then combine qsort and merge DONE [scala qsort](#scala-version-of-quick-sort) [java sorts, merge, quick combo](#a-few-sort-algorithms), [python qsort](#python-version-of-quick-sort)
 * Create HashMap with auto-balance, load factor, size. DONE (simple [java hashmap](#a-simple-hashmap))
 * Create simple binary tree Map DONE ([simple binary tree](#simple-tree-map-binary-tree))
 * Create AVL binary tree Map DONE ([avl tree](#avl-tree-map) )
